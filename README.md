@@ -5,8 +5,8 @@
 Semester: 4th Sem B. Tech. CSE
 
 221CS117	Ch V Sushma Reddy 		  sushmach.221cs117@nitk.edu.in	      7013060863
-221CS223  Harshini V              harshiniv.221cs223                  9606982602
-221CS239  Abhyuday Rayala         rayalaabhyuday.221cs239             7013831726
+221CS223  Harshini V              harshiniv.221cs223@nitk.edu.in                  9606982602
+221CS239  Abhyuday Rayala         rayalaabhyuday.221cs239@nitk.edu.in             7013831726
 
 </details>
 
